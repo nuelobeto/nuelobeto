@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nuelobeto
-- 👀 I’m interested in Frontend software development
+- 👀 I’m a Frontend developer
 - 💞️ I’m looking to collaborate on Frontend software development
 - 📫 How to reach me: nuelobeto@gmail.com, +2349030492266
 
