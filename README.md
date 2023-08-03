@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nuelobeto
 - 👀 I’m a Frontend developer
 - 💞️ I’m looking to collaborate on Frontend software development
-- 📫 How to reach me: nuelobeto@gmail.com, +2349030492266
+- 📫 How to reach me: nuelobeto@gmail.com
 
 <!---
 nuelobeto/nuelobeto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
